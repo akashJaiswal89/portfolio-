@@ -18,11 +18,11 @@ import imgB5 from "../../../public/images/projects/5.png"
   },
   {
     id: 2,
-    title: "Billinicrow.com",
+    title: "Billingcrow.com",
     description: "Billing and inventory platform similar to MyBillBook, developed using Next.js, and ScyllaDB.",
     image: imgB5,
     tag: ["All", "Web"],
-    previewUrl: "https://billinicrow.com",
+    previewUrl: "https://billingcrow.com",
   },
   {
     id: 3,
