@@ -47,14 +47,14 @@ const EmailSection = () => {
         <div className="space-y-6 sm:space-y-0 text-lg sm:flex items-center justify-between">
           <div className="flex items-center justify-center gap-3">
             <EnvelopeIcon className="w-6 h-6 text-blue-400" />
-            <a href="mailto:your.email@example.com" className="hover:underline">
-              your.email@example.com
+            <a href="mailto:surendrakash89@gmail.com" className="hover:underline">
+              surendrakash89@gmail.com
             </a>
           </div>
           <div className="flex items-center justify-center gap-3">
             <PhoneIcon className="w-6 h-6 text-green-400" />
-            <a href="tel:+911234567890" className="hover:underline">
-              +91 12345 67890
+            <a href="tel:+918922988589" className="hover:underline">
+              +91 8922988589
             </a>
           </div>
           <div className="flex items-center justify-center gap-3">
