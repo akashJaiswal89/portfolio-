@@ -58,14 +58,14 @@ const EmailSection = () => {
             </a>
           </div>
           <div className="flex items-center justify-center gap-3">
-          <Image src={LinkedinIcon} alt="Linkedin Icon" className="w-8 h-8" />
+          <Image src={GithubIcon} alt="Linkedin Icon" className="w-8 h-8" />
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://github.com/akashJaiswal89"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
             >
-              linkedin.com/in/your-profile
+             https://github.com/akashJaiswal89
             </a>
           </div>
         </div>
