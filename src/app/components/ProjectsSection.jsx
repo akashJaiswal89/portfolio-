@@ -47,7 +47,7 @@ import imgB5 from "../../../public/images/projects/5.png"
     image: imgR4,
     tag: ["All", "Mobile"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://play.google.com/store/apps/details?id=com.mobile.realm.prod&pli=1",
   },
 ];
 
